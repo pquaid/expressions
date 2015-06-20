@@ -2,9 +2,8 @@
 *.so
 *.a
 *.d
+*~
 
 # Binaries
 expr
-
-# Test programs
 *_test
